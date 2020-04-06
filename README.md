@@ -1,2 +1,2 @@
 # Probabilidade 101
- Probabilidade em Python
+ Neste repositório serão **testadas** formas de se trabalhar probabilidade no ambiente Python
