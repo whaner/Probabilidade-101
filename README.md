@@ -5,5 +5,5 @@
  
  ## **Conteúdo**<p>
  
- ### Distribuição de probabilidade binomial
+ ### Distribuição discreta de probabilidade
  ### Distribuição contínua de probabilidade
